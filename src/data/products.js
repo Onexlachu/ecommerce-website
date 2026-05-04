@@ -71,6 +71,24 @@ const products = [
     description:
       "1080p HD webcam with auto-focus and built-in microphone. Ideal for video calls and streaming.",
   },
+   {
+    id: 9,
+    name: "AI Automation for Business",
+    price: 50.99,
+    image:
+      "https://files.selar.co/product-images/2026/products/blactech-africa1/ai-automation-for-busines-selar.com-69d66b5bb7ac1.jpeg",
+    description:
+      "Single Product (AI Automation for Business. The No-Fluff Guide for Nigerian Entrepreneurs)",
+  },
+   {
+    id: 10,
+    name: "AI Tools for Business",
+    price: 20.20,
+    image:
+      "https://files.selar.co/product-images/2026/products/blactech-africa1/ai-tools-for-business-ful-selar.com-69da566988172.jpeg",
+    description:
+      "Single Product (AI Tools for Business — Full Bundle (Ebook + 4-Day Live Class))",
+  },
 ];
 
 export function getProducts() {
